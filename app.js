@@ -89,6 +89,14 @@ function main() {
             [0, 0],
             [7, 7],
         ],
+        [
+            [4, 4],
+            [7, 0],
+        ],
+        [
+            [6, 1],
+            [1, 5],
+        ],
     ];
 
     TEST_PATHS.forEach((squares) => {
